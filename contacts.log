@@ -1,0 +1,16 @@
+[2020/10/16 12:55:05] - Contact Created: Contact 1 - [Name: MyContact, Phone Number: 1234, Email: at@gmail.pt]]
+[2020/10/16 12:55:11] - Loaded 7 to program
+[2020/10/16 12:55:19] - Contact Removed : Contact 1 - [Name: MyContact, Phone Number: 1234, Email: at@gmail.pt]
+[2020/10/16 12:57:18] - Contact Created: Contact 1 - [Name: MyContact, Phone Number: 12345, Email: at@foo.gt]]
+[2020/10/16 12:57:22] - Loaded 7 Contacts to program
+[2020/10/16 12:57:23] - Listed 7 Contacts
+[2020/10/16 12:57:26] - Contact Removed : Contact 1 - [Name: MyContact, Phone Number: 12345, Email: at@foo.gt]
+[2020/10/16 12:57:29] - Listed 6 Contacts
+[2020/10/16 13:02:11] - Contact Created: Contact 1 - [Name: foo1, Phone Number: 1, Email: foo1@at.gt]]
+[2020/10/16 13:02:20] - Contact Created: Contact 2 - [Name: foo2, Phone Number: 2, Email: foo2@at.gt]]
+[2020/10/16 13:02:21] - Listed 3 Contacts
+[2020/10/16 13:29:32] - Listed 1 Contacts
+[2020/10/16 13:29:35] - Loaded 6 Contacts to program
+[2020/10/16 13:29:37] - Listed 6 Contacts
+[2020/10/16 13:31:48] - Loaded 6 Contacts to program
+[2020/10/16 13:31:50] - Listed 6 Contacts
